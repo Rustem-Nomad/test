@@ -1,6 +1,6 @@
 NultyParametr "C:\_GIT\test\local_run.bat" 
 PrnviParametr  
-Local date is [2020-02-06 11:13:42.219] 
+Local date is [2020-02-06 11:19:20.981] 
  Volume in drive C is Windows
  Volume Serial Number is A022-2886
 
@@ -9,10 +9,10 @@ Local date is [2020-02-06 11:13:42.219]
 06.02.2020  10:22    <DIR>          .
 06.02.2020  10:22    <DIR>          ..
 06.02.2020  10:22                75 .gitignore
-06.02.2020  11:13               104 aa.txt
+06.02.2020  11:19               104 aa.txt
 06.02.2020  10:22    <DIR>          common
 06.02.2020  10:22               375 local_run.bat
 06.02.2020  10:22    <DIR>          results
 06.02.2020  10:22    <DIR>          rf
                3 File(s)            554 bytes
-               5 Dir(s)  153ÿ868ÿ664ÿ832 bytes free
+               5 Dir(s)  153ÿ849ÿ425ÿ920 bytes free
